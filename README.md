@@ -10,6 +10,6 @@ To add:
 
 
 
-## Recent Changes
+#### Recent Changes
 
 - In the collision detection module, `Polygon` was swapped with `Polyhedron` and `DiscretizeGraphics` with `BoundaryMeshRegion`. 
