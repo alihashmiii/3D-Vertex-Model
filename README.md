@@ -7,7 +7,7 @@
 `Dependency: IGraphM` (https://github.com/szhorvat/IGraphM)
 
 
-The project contains an implementation of a vertex model to simulate biological tissues in 3D. Currently, the repository houses the Mathematica notebooks for simulating an infinite sheet of cells in monolayer. However, this code can be easily modified to simulate cells in 3D agglomerates/aggregates.
+The project contains an implementation of a vertex model to simulate biological tissues in 3D. Currently, the repository houses the Mathematica notebooks for simulating an infinite sheet of cells in a monolayer. However, this code can be easily modified to simulate cells in 3D agglomerates/aggregates - which are essentially easier to simulate than an infinite sheet.
 
 
 ### To-Do List:
