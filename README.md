@@ -1,4 +1,4 @@
-# 3DVertexModel
+# 3D Vertex Model
 
 `@Author: Ali Hashmi`
 
