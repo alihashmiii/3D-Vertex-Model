@@ -3,7 +3,7 @@
 ![author](https://img.shields.io/badge/Author-Ali%20Hashmi-blue)
 
 ![version](https://img.shields.io/badge/Mathematica%20version-12.1%2B-green)
-![Dependency](https://img.shields.io/badge/dependencies-IGraphM-red)
+![Dependency](https://img.shields.io/badge/dependencies-IGraphM-red) 
 
 
 The project contains an implementation of a vertex model to simulate biological tissues in 3D. Currently, the repository houses the Mathematica notebook `vertex model 3D.nb` for simulating an infinite sheet of cells in a monolayer. However, this code can be easily modified to simulate cells in 3D agglomerates/aggregates - which are essentially easier to simulate than an infinite sheet.
@@ -19,3 +19,6 @@ The project contains an implementation of a vertex model to simulate biological 
 - If you use or modify the code to disseminate the results in a publication/presentation, you would need to cite the author's repository and ask for permission. 
 
 - The code is based on and is a modification of *Okuda et al 2012, "Reversible network reconnection model for simulating large deformation in dynamic tissue morphogenesis"*
+
+- install [IGraphM](https://github.com/szhorvat/IGraphM) 
+to use the `SubIsomorphicQ` function
