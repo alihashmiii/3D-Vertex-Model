@@ -1,10 +1,9 @@
 # 3D Vertex Model
 
-`@Author: Ali Hashmi`
+![author](https://img.shields.io/badge/Author-Ali%20Hashmi-blue)
 
-`Mathematica Version: 12.1`
-
-`Dependency: IGraphM for the SubIsomorphicQ function` (https://github.com/szhorvat/IGraphM)
+![version](https://img.shields.io/badge/Mathematica%20version-12.1%2B-green)
+![Dependency](https://img.shields.io/badge/dependencies-IGraphM-red)
 
 
 The project contains an implementation of a vertex model to simulate biological tissues in 3D. Currently, the repository houses the Mathematica notebook `vertex model 3D.nb` for simulating an infinite sheet of cells in a monolayer. However, this code can be easily modified to simulate cells in 3D agglomerates/aggregates - which are essentially easier to simulate than an infinite sheet.
