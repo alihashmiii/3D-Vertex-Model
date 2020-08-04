@@ -18,7 +18,7 @@ The project contains an implementation of a vertex model to simulate biological 
 
 ## Notes
 
-- **If you use or modify the code to disseminate the results in a publication/presentation, you would need to cite the author's repository and explicitly ask for permission.** 
+- **If you use or modify the code to disseminate the results in a publication, you would need to cite the author's repository and explicitly ask for permission.** 
 
 - The code is based on and is a modification of *Okuda et al 2012, "Reversible network reconnection model for simulating large deformation in dynamic tissue morphogenesis"*
 
