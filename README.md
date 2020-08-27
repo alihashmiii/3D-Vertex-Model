@@ -8,7 +8,7 @@
 `under active development`
 
 
-The project contains an implementation of a vertex model to simulate biological tissues in 3D. The repository currently houses the Mathematica [notebook](https://github.com/alihashmiii/3DVertexModel/blob/master/vertex%20model%20sim/vertex%20model%203D.nb) ([PDF](https://github.com/alihashmiii/3DVertexModel/blob/master/vertex%20model%20sim/vertex%20model%203D.pdf)) for simulating an infinite sheet of cells in a monolayer. However, this code can be easily modified to simulate cells in 3D agglomerates/aggregates - which are essentially easier to simulate than an infinite sheet. In this implementation the cells can exchange neighbours.
+The project contains an implementation of a vertex model to simulate biological tissues in 3D. The repository currently houses the Mathematica [notebook](https://github.com/alihashmiii/3DVertexModel/blob/master/vertex%20model%20sim/vertex%20model%203D.nb) ([PDF](https://github.com/alihashmiii/3DVertexModel/blob/master/vertex%20model%20sim/vertex%20model%203D.pdf)) for simulating an infinite sheet of cells in a monolayer. However, this code can be easily modified to simulate cells in 3D agglomerates/aggregates - which are essentially easier to simulate than an infinite sheet. In this implementation the cells can exchange neighbours (T1 transitions).
 
 
 ### To-Do List:
