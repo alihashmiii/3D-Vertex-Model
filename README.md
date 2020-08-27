@@ -14,6 +14,8 @@ The project contains an implementation of a vertex model to simulate biological 
 
 `vertex model aggregate - will contain code for modeling an agglomerate of cells`
 
+`sanity checks for functions - contains test modules to check whether functions are performing correctly`
+
 
 ### To-Do List:
 - cell division event to create a new polyhedron
