@@ -11,6 +11,8 @@ The project contains an implementation of a vertex model to simulate biological 
 
 `vertex model sim - contains the code for modeling infinite sheet of cells`
 
+`multilayer sim - contains code for modeling multilayered tissue structure`
+
 `sanity checks for functions - contains test modules to check whether functions are performing correctly`
 
 
